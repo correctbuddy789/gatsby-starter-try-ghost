@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://tushar-ghost.herokuapp.com",
+    "contentApiKey": "32e7b0c6b4dbbf80d667079d0a"
+  },
+  "production": {
+    "apiUrl": "https://tushar-ghost.herokuapp.com",
+    "contentApiKey": "32e7b0c6b4dbbf80d667079d0a"
+  }
+}
